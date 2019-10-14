@@ -17,5 +17,6 @@ public class CmfzApplicationTests {
     public void select() {
         System.out.println();
         System.out.println("asd");
+        System.out.println("lll");
     }
 }
