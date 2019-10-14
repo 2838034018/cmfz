@@ -16,5 +16,6 @@ public class CmfzApplicationTests {
     @Test
     public void select() {
         System.out.println();
+        System.out.println("asd");
     }
 }
