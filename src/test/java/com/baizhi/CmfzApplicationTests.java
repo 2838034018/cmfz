@@ -16,6 +16,6 @@ public class CmfzApplicationTests {
         System.out.println("asd");
         System.out.println("lll");
         System.out.println("wo");
-
+        System.out.println("ni");
     }
 }
