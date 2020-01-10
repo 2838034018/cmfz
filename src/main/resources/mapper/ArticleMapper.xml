@@ -16,4 +16,8 @@
     <update id="update">
         update article set title=#{title},content=#{content},author=#{author} where id=#{id}
     </update>
+
+    <select id="selectAll" resultType="Article">
+        select * from article
+    </select>
 </mapper>
